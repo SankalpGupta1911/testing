@@ -6,3 +6,7 @@ git push <origin> <local branch>
 git clone git@github.com:SankalpGupta1911/testing.git
 git branch
 git checkout -b mayank_test #creating new branch and switch to it
+
+git branch -r
+git switch master
+git branch -D sankalp_testing
